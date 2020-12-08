@@ -1,0 +1,25 @@
+{
+  "name": "kirti",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirti-tech/unique.git"
+  },
+  "keywords": [
+    "check"
+  ],
+  "author": "kirti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirti-tech/unique/issues"
+  },
+  "homepage": "https://github.com/kirti-tech/unique#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
